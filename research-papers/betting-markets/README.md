@@ -1,3 +1,3 @@
 # Betting Markets Research Papers
 
-Test
+A repository of research papers taking about sports betting markets. 
