@@ -1,5 +1,32 @@
 # Links
 
+## MLB
+
+https://www.baseball-reference.com/<br />
+https://billpetti.github.io/baseballr/<br />
+https://github.com/jldbc/pybaseball<br />
+http://www.seanlahman.com/baseball-archive/statistics/<br />
+https://www.fangraphs.com/<br />
+https://www.retrosheet.org/<br />
+http://dailybaseballdata.com/cgi-bin/index.pl<br />
+https://swishanalytics.com/mlb/mlb-umpire-factors - Umpire Factors<br />
+
+## NFL
+
+https://github.com/maksimhorowitz/nflscrapR<br />
+https://github.com/mrcaseb/nflfastR<br />
+https://rbsdm.com/stats/box_scores/ - EPA based box scores<br />
+https://grindingthemocks.shinyapps.io/ - NFL Draft<br />
+http://breakdownsports.blogspot.com/p/run-concepts.html - help understand play design/what you're watching<br />
+https://nflgamedata.com/<br />
+https://www.nfeloapp.com/games/<br />
+https://github.com/nflverse/nfldata - Lee Sharpe data in CSVs<br />
+https://www.nflindex.com/<br />
+https://nflreadr.nflverse.com/index.html<br />
+https://mfbanalytics.shinyapps.io/RYOE/<br />
+https://www.the33rdteam.com/the-edge/ - snap count, coverages, pass rush based off SIS data<br />
+https://nflseedr.com/ - R package for simulating seasons using your own model<br />
+
 ## Soccer 
 
 https://fbref.com/en/<br />
