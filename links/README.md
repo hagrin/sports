@@ -13,6 +13,18 @@ https://blessyourchart.shinyapps.io/WABStick/ - WABStick<br />
 https://hoop-math.com/<br />
 https://haslametrics.com/<br />
 
+## NHL
+https://www.hockey-reference.com/<br />
+http://moneypuck.com/data.htm<br />
+https://evolving-hockey.com/?<br />
+http://www.naturalstattrick.com/<br />
+http://www.puckon.net/<br />
+https://hockey-data.harryshomer.com/pbp/<br />
+https://hockey-data.harryshomer.com/shifts/<br />
+https://hockey-statistics.com/<br />
+http://moneypuck.com/<br />
+
+
 ## MLB
 
 https://www.baseball-reference.com/<br />
@@ -60,3 +72,14 @@ https://www.football-observatory.com/IMG/sites/mr/mr81/en/ - link will change, b
 https://github.com/devinpleuler/analytics-handbook - Analytics Handbook<br />
 https://mimburgio.shinyapps.io/alphonso/ - APLPHONSO player model dashboard<br />
 https://proreferees.com/category/assignments/mls-assignments/ - ref assignments<br />
+
+## Tennis
+
+https://github.com/JeffSackmann/tennis_atp<br />
+http://tennisabstract.com/<br />
+https://tennisinsight.com/<br />
+
+## WNBA / NCAAW
+https://github.com/snestler/wncaahoopR<br />
+https://github.com/sportsdataverse/wehoop<br />
+
