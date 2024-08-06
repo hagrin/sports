@@ -1,5 +1,14 @@
 # Links
 
+## General
+
+https://docs.google.com/spreadsheets/u/0/d/1LPe8xYduoep9qCrNzBGdJHaHZ8dnmdHNnu7UXZKzawU/htmlview# - Guide to Sports Analytics<br />
+
+## Odds
+
+https://www.oddsportal.com/<br />
+https://the-odds-api.com/ - ($$$)<br />
+
 ## NBA
 
 https://www.basketball-reference.com/<br />
