@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kelly Criterion Calculator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        label, input, button {
+            display: block;
+            margin-bottom: 10px;
+        }
+        input {
+            width: 100%;
+            padding: 5px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px;
+            border: none;
+            cursor: pointer;
+        }
+        #result {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Kelly Criterion Calculator</h1>
+    <label for="stakeSize">Bankroll Size:</label>
+    <input type="number" id="stakeSize" placeholder="Enter stake size">
+
+    <label for="winProbability">Probability of Winning (%):</label>
+    <input type="number" id="winProbability" placeholder="Enter probability of winning">
+
+    <label for="americanOdds">American Odds:</label>
+    <input type="number" id="americanOdds" placeholder="Enter American odds">
+
+    <button onclick="calculateKelly()">Calculate Kelly Criterion</button>
+
+    <div id="result"></div>
+
+    <script>
+        function calculateKelly() {
+            const stakeSize = parseFloat(document.getElementById('stakeSize').value);
+            const winProbability = parseFloat(document.getElementById('winProbability').value) / 100;
+            const americanOdds = parseFloat(document.getElementById('americanOdds').value);
+
+            if (isNaN(stakeSize) || isNaN(winProbability) || isNaN(americanOdds) || winProbability <= 0 || winProbability >= 1) {
+                document.getElementById('result').textContent = 'Please enter valid numbers. Probability should be between 0 and 100.';
+                return;
+            }
+
+            let decimalOdds;
+            if (americanOdds > 0) {
+                decimalOdds = (americanOdds / 100) + 1;
+            } else {
+                decimalOdds = (-100 / americanOdds) + 1;
+            }
+
+            const kellyFraction = ((decimalOdds - 1) * winProbability - (1 - winProbability)) / (decimalOdds - 1);
+            const kellyBet = stakeSize * Math.max(0, kellyFraction);
+            const kellyPercentage = Math.max(0, kellyFraction) * 100;
+
+            document.getElementById('result').innerHTML = `
+                Kelly Criterion Bet: $${kellyBet.toFixed(2)}<br>
+                Percentage of Bankroll to Bet: ${kellyPercentage.toFixed(2)}%
+            `;
+        }
+    </script>
+</body>
+</html>
