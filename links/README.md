@@ -94,6 +94,7 @@ https://www.football-observatory.com/IMG/sites/mr/mr81/en/ - link will change, b
 https://github.com/devinpleuler/analytics-handbook - Analytics Handbook<br />
 https://mimburgio.shinyapps.io/alphonso/ - APLPHONSO player model dashboard<br />
 https://proreferees.com/category/assignments/mls-assignments/ - ref assignments<br />
+https://football-match-reports.streamlit.app/ - Game reports using Opta data<br />
 
 ## Tennis
 
