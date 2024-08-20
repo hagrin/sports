@@ -4,8 +4,15 @@
 
 https://docs.google.com/spreadsheets/u/0/d/1LPe8xYduoep9qCrNzBGdJHaHZ8dnmdHNnu7UXZKzawU/htmlview# - Guide to Sports Analytics<br />
 
+## Data Feeds
+
+Sportsdata.io - https://sportsdata.io/<br />
+Stats Perform - https://www.statsperform.com/<br />
+TX Markets - https://txmarkets.com/<br />
+
 ## Odds
 
+https://www.bookmakersreview.com/odds/ - the "new" SBR<br />
 https://www.oddsportal.com/<br />
 https://the-odds-api.com/ - ($$$)<br />
 
