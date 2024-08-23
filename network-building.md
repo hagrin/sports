@@ -14,5 +14,17 @@ Therefore, the best approach is to identify exactly what the optimal location wo
 - List of Online Sportsbooks - (to be published later)
 - List of Brick & Mortar locations - n/a
 - List of Cash & Counter locations -
+    - https://sportsbook.draftkings.com/retailsportsbook - DK retail sportsbook locations
     - https://support.fanduel.com/s/article/Cash-at-Counter
 
+Once you have a comprehensive idea of all the physical and digital locations you need access to successfully build out a full coverage network, you then need to tackle the following problems - 
+- Staffing & Vetting
+- Financing
+- Reconciliation
+- Communications
+- OpSec
+- KPIs / Telemetry
+
+## Staffing & Vetting
+
+Make no mistake - the sports betting landscape is a cesspool. Anyone who says different cannot be trusted to be able to give you an accurate interpretation about the world around them. 
