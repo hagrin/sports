@@ -67,8 +67,9 @@ https://swishanalytics.com/mlb/mlb-umpire-factors - Umpire Factors<br />
 
 ## NFL
 
-https://github.com/maksimhorowitz/nflscrapR<br />
-https://github.com/mrcaseb/nflfastR<br />
+nflfastR - https://github.com/mrcaseb/nflfastR<br />
+nflreadr - https://github.com/nflverse/nflreadr<br />
+nflscrapR - https://github.com/maksimhorowitz/nflscrapR<br />
 https://rbsdm.com/stats/box_scores/ - EPA based box scores<br />
 https://grindingthemocks.shinyapps.io/ - NFL Draft<br />
 http://breakdownsports.blogspot.com/p/run-concepts.html - help understand play design/what you're watching<br />
