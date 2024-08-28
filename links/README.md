@@ -26,6 +26,7 @@ https://github.com/mcbarlowe/nba_scraper<br />
 
 ## NCAAF
 
+Game On Paper - https://gameonpaper.com/cfb/ - crazy good advanced analytics box scores<br />
 https://saiemgilani.github.io/cfbscrapR/<br />
 https://collegefootballdata.com/<br />
 
