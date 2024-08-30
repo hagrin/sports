@@ -15,6 +15,7 @@ TX Markets - https://txmarkets.com/<br />
 https://www.bookmakersreview.com/odds/ - the "new" SBR<br />
 https://www.oddsportal.com/<br />
 https://the-odds-api.com/ - ($$$)<br />
+OddsWarehouse - https://www.oddswarehouse.com/ - ($$$)<br />
 
 ## NBA
 
