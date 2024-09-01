@@ -87,6 +87,7 @@ https://nflseedr.com/ - R package for simulating seasons using your own model<br
 
 ## Soccer 
 
+StatsBomb Open Data - https://github.com/statsbomb/open-data - publicly shared data mostly for lower leagues, great place to start for soccer analytics people<br />
 https://fbref.com/en/<br />
 https://jaseziv.github.io/worldfootballR/<br />
 https://github.com/FCrSTATS/tyrone_mings<br />
