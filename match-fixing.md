@@ -4,8 +4,8 @@ This is not meant to be a complete, all-encompassing list of match fixing events
 
 ## NBA
 
-2007 - Tim Donaghy - https://www.espn.com/nba/story/_/id/25980368/how-former-ref-tim-donaghy-conspired-fix-nba-games
-2024 - Johntay Porter - https://www.cbssports.com/nba/news/jontay-porter-gambling-investigation-explained-nba-hands-down-lifetime-ban-after-prop-bet-irregularities/
+2007 - Tim Donaghy - https://www.espn.com/nba/story/_/id/25980368/how-former-ref-tim-donaghy-conspired-fix-nba-games<br />
+2024 - Johntay Porter - https://www.cbssports.com/nba/news/jontay-porter-gambling-investigation-explained-nba-hands-down-lifetime-ban-after-prop-bet-irregularities/<br />
 
 ## E-Sports
 
