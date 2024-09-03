@@ -19,11 +19,11 @@ OddsWarehouse - https://www.oddswarehouse.com/ - ($$$)<br />
 
 ## NBA
 
-https://www.basketball-reference.com/<br />
-https://github.com/josedv82/airball<br />
+{airball} - https://github.com/josedv82/airball - R package to extract schedule and travel metrics<br />
+Basketball Reference - https://www.basketball-reference.com/<br />
 https://www.pbpstats.com/<br />
 https://www.nbastuffer.com/referee-stats/<br />
-https://github.com/mcbarlowe/nba_scraper<br />
+NBA_Scraper by Barlowe - https://github.com/mcbarlowe/nba_scraper - **No Longer maintained, looks like went to go work for the BUF Sabres**<br />
 
 ## NCAAF
 
