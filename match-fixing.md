@@ -9,6 +9,10 @@ This is not meant to be a complete, all-encompassing list of match fixing events
 
 ## E-Sports
 
+2014 - CS:GO - emilio - https://www.youtube.com/watch?v=Ir6ByYBW6e8 - VAC Banned on Stream<br />
+2020 - CS:GO - Heroic, MIBR, and Hard Legion - https://igamingbusiness.com/casino-games/csgo-coaches-banned-for-cheating/ - "Coaching Bug"<br />
+2020 - CS:GO/Valorant - ardiis - https://medium.com/@itsgamerdoc/stopping-a-storm-before-it-happens-fd36051607c6<br />
+
 ## Soccer
 
 ## Table Tennis
