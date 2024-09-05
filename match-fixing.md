@@ -18,3 +18,7 @@ This is not meant to be a complete, all-encompassing list of match fixing events
 ## Table Tennis
 
 ## Tennis
+
+## College Baseball
+
+Alabama Baseball Coach
