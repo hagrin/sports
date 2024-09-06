@@ -21,4 +21,4 @@ This is not meant to be a complete, all-encompassing list of match fixing events
 
 ## College Baseball
 
-Alabama Baseball Coach
+2023 - Brad Bohannon - Alabama Baseball Coach - https://www.sportingnews.com/us/mlb/news/alabama-baseball-betting-scandal-brad-bohannon-coach-fired/igc7v7njlebyqym8qo07snlc<br />
