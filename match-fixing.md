@@ -15,6 +15,10 @@ This is not meant to be a complete, all-encompassing list of match fixing events
 
 ## Soccer
 
+2015 - Ghost Games - https://www.sportsintegrityinitiative.com/the-ghost-game-phenomenon/ - "Isle of Man-based Celton Manx, who operate Sbobet, paid out on FC Slutsk's 2-1 'friendly win' against fellow Belarus side Shakhter Soligorsk, external."<br />
+2020 - Ghost Games Ukraine - https://www.legalsportsreport.com/39629/betgenius-ghost-games-ukraine-soccer/<br />
+
+
 ## Table Tennis
 
 ## Tennis
