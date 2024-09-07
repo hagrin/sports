@@ -21,6 +21,8 @@ This is not meant to be a complete, all-encompassing list of match fixing events
 
 ## Table Tennis
 
+2020 - Ukranian Table Tennis - Liliia Zaitseva, Ivan Gaysin, Karen Dzhanibekyan, Eduard Panichev, Anastasia Efimova and Gleb Zotov - https://www.espn.com/sports-betting/story/_/id/29436278<b />
+
 ## Tennis
 
 ## College Baseball
