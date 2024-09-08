@@ -29,7 +29,7 @@ Once you have a comprehensive idea of all the physical and digital locations you
 
 Make no mistake - the sports betting landscape is a cesspool. Anyone who says different cannot be trusted to be able to give you an accurate interpretation about the world around them. A very common theme you hear in the sports betting world is the situation where someone gets stiffed and, only after they get stiffed, do they start to perform the required fact finding to try and ensure they get paid. Obviously, this is backwards and we want to build out our network and perform all vetting before anything distressing happens.
 
-<div style="width: 640px; max-width: 100%;">
+<div style="width: 640px; max-width: 640px;">
 <video width="640" height="272" src="https://github.com/user-attachments/assets/a7cdfa53-9972-4aa2-9000-e37154c55cfe"></video>
 </div>
 
