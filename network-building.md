@@ -31,4 +31,6 @@ Make no mistake - the sports betting landscape is a cesspool. Anyone who says di
 
 <video width="640" height="272" src="https://github.com/user-attachments/assets/a7cdfa53-9972-4aa2-9000-e37154c55cfe"></video>
 
+So, where do you start?
 
+It starts with realistic expectations. No matter how much vetting you do, you will get stiffed. You will get ghosted. You will have to chase down money. You will have to sometimes push an issue far enough to become enough of an issue to the "problem network member" that you get moved to the front of the creditor line. You should expect all of these things to happen to you at some point, the goal is to limit the occurrences.
