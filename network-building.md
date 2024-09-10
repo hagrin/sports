@@ -37,5 +37,6 @@ It starts with realistic expectations. No matter how much vetting you do, you wi
 - Identify person's digital footprint
 - Identify person's physical world footprint
 - Tie digital identity to their physical identity
-- Reputation /background check
+- Reputation / Background check
 
+Let's start with the digital identity portion and those network connections that you make online.
