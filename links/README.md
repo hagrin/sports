@@ -27,6 +27,7 @@ NBA_Scraper by Barlowe - https://github.com/mcbarlowe/nba_scraper - **No Longer 
 
 ## NCAAF
 
+BCF Toys - https://www.bcftoys.com/ - FEI Ratings, F+ by Brian Fremeau, great site<br />
 Game On Paper - https://gameonpaper.com/cfb/ - crazy good advanced analytics box scores<br />
 https://saiemgilani.github.io/cfbscrapR/<br />
 https://collegefootballdata.com/<br />
