@@ -33,4 +33,9 @@ Make no mistake - the sports betting landscape is a cesspool. Anyone who says di
 
 So, where do you start?
 
-It starts with realistic expectations. No matter how much vetting you do, you will get stiffed. You will get ghosted. You will have to chase down money. You will have to sometimes push an issue far enough to become enough of an issue to the "problem network member" that you get moved to the front of the creditor line. You should expect all of these things to happen to you at some point, the goal is to limit the occurrences.
+It starts with realistic expectations. No matter how much vetting you do, you will get stiffed. You will get ghosted. You will have to chase down money. You will have to sometimes push an issue far enough to become enough of an issue to the "problem network member" that you get moved to the front of the creditor line. You should expect all of these things to happen to you at some point, the goal is to limit the occurrences. What's a good list of things to accomplish before entering into some networking agreement / partnership -
+- Identify person's digital footprint
+- Identify person's physical world footprint
+- Tie digital identity to their physical identity
+- Reputation /background check
+
