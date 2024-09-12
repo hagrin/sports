@@ -7,6 +7,10 @@ This is not meant to be a complete, all-encompassing list of match fixing events
 2007 - Tim Donaghy - https://www.espn.com/nba/story/_/id/25980368/how-former-ref-tim-donaghy-conspired-fix-nba-games<br />
 2024 - Johntay Porter - https://www.cbssports.com/nba/news/jontay-porter-gambling-investigation-explained-nba-hands-down-lifetime-ban-after-prop-bet-irregularities/<br />
 
+## NCAAM
+
+1994 - Arizona State - Benny Silman, Stevin Smith, Isaac Burton - https://sportshandle.com/arizona-state-point-shaving-scandal-bookies/<br />
+
 ## E-Sports
 
 2014 - CS:GO - emilio - https://www.youtube.com/watch?v=Ir6ByYBW6e8 - VAC Banned on Stream<br />
