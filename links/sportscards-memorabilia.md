@@ -1,5 +1,9 @@
 # Sports Cards & Memorabilia
 
+## Price History
+
+Ebay - https://www.ebay.com/sh/research - is the old Terapeak<br />
+
 ## Supplies
 
 BCW - https://www.bcwsupplies.com/<br />
