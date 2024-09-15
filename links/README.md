@@ -71,6 +71,7 @@ https://swishanalytics.com/mlb/mlb-umpire-factors - Umpire Factors<br />
 
 ## NFL
 
+NFL.com Pro - https://pro.nfl.com/ - ($$$) - Requires NFL+ Premium, tons of NextGenStats, filtered All-22<br />
 nflfastR - https://github.com/mrcaseb/nflfastR<br />
 nflreadr - https://github.com/nflverse/nflreadr<br />
 nflscrapR - https://github.com/maksimhorowitz/nflscrapR<br />
