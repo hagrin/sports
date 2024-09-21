@@ -40,3 +40,17 @@ It starts with realistic expectations. No matter how much vetting you do, you wi
 - Reputation / Background check
 
 Let's start with the digital identity portion and those network connections that you make online.
+
+### Information Gathering (in progress)
+
+During the information gathering process, you want to perform two separate, but connected processes - identification and archival. First, depending on how you were introduced to this connection, you're going to obtain "initial point of contact" information from this person. This will vary by introduction method so the concept here is to fill in whatever blanks are remaining before proceeding in earnest.
+- Real name
+- Physical location
+- Employer if applicable
+- Phone numbers
+- Social media accounts
+
+The first 4 are self-explanatory. Again, you don't want to go searching for this info, as we see often in the various "stiffs" channels, after the fact - you want to have all this information already accessible before anything happens. Let's instead focus on the digital presence.
+
+- Social media archival
+- Network graph building
