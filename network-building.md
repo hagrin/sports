@@ -1,4 +1,4 @@
-# Network Building
+ # Network Building
 
 ## Geography
 
@@ -54,3 +54,13 @@ The first 4 are self-explanatory. Again, you don't want to go searching for this
 
 - Social media archival
 - Network graph building
+
+### Financing
+
+### Reconciliation
+
+### Communications
+
+### OpSec
+
+### KPIs / Telemetry
