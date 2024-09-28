@@ -57,6 +57,12 @@ The first 4 are self-explanatory. Again, you don't want to go searching for this
 
 ### Financing
 
+Properly financing your network requires acute attention to the following areas - 
+- Bankroll size needed whether cash or credit
+- Capital Efficiency
+- Fiat vs Crypto & methods of settlement
+- Tax considerations
+
 ### Reconciliation
 
 ### Communications
