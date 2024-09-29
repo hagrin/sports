@@ -3,7 +3,7 @@
 ## Grading
 
 Beckett - https://www.beckett.com/grading<br />
-- Population Report - https://www.beckett.com/grading/pop-report<br />
+- Population Report - https://www.beckett.com/grading/pop-report<br /><br />
 PSA - https://www.psacard.com/<br />
 - Population Report - https://www.psacard.com/pop<br />
 
