@@ -8,6 +8,9 @@ Beckett - https://www.beckett.com/grading<br />
 PSA - https://www.psacard.com/<br />
 - Population Report - https://www.psacard.com/pop<br />
 
+SGC - https://www.gosgc.com/ - acquired by Collectors / PSA in Feb 2024<br />
+- Population Report - https://www.gosgc.com/pop-report<br />
+
 ## Price History
 
 Ebay - https://www.ebay.com/sh/research - is the old Terapeak<br />
