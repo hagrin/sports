@@ -2,6 +2,8 @@
 
 ## Grading
 
+These are the top grading companies which you should primarily stick to -<br />
+
 Beckett - https://www.beckett.com/grading<br />
 - Population Report - https://www.beckett.com/grading/pop-report<br />
 
@@ -10,6 +12,10 @@ PSA - https://www.psacard.com/<br />
 
 SGC - https://www.gosgc.com/ - acquired by Collectors / PSA in Feb 2024<br />
 - Population Report - https://www.gosgc.com/pop-report<br />
+
+Additional grading companies that I find interesting, but do not have the resale value of the ones above -<br />
+
+HGA - https://hybridgrading.com/ - Note - as of 2024 July 15, HGA not accepting new orders and it's been like this for several months now.<br />
 
 ## Price History
 
