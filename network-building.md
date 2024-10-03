@@ -67,6 +67,15 @@ Properly financing your network requires acute attention to the following areas 
 
 ### Communications
 
+In the world of sports betting networking, your communication platform acts not only as method of communication, but also as an informal record / set of contracts. Therefore, when choosing a communications platform, you want to account for the following - 
+- Can the messages be edited? Version control?
+- Can the messages be deleted?
+- Do you need ephemeral messaging for any reason?
+- Ease of use
+- Extendability through programmatic solutions
+
+
+
 ### OpSec
 
 OpSec, short for Operational Security, is simply defined as - <i>"a process that identifies critical information to determine whether friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information"</i>. When it comes to operating a sports betting network, you will definitely want to make OpSec one of your primary concerns so that other groups, sportsbooks, other bettors, etc cannot take your critical information and use it to their advantage or, even worse, against you.<br /><br />
