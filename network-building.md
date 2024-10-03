@@ -70,6 +70,9 @@ Properly financing your network requires acute attention to the following areas 
 ### OpSec
 
 OpSec, short for Operational Security, is simply defined as - <i>"a process that identifies critical information to determine whether friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information"</i>. When it comes to operating a sports betting network, you will definitely want to make OpSec one of your primary concerns so that other groups, sportsbooks, other bettors, etc cannot take your critical information and use it to their advantage or, even worse, against you.<br /><br />
+
 Whether you know it or not, you're engaging in "Information Warfare" which I cover in depth here. (link to Medium article when complete)<br /><br />
+
+Your OpSec procedures will be determined by who your adversary - i.e. "who are you actually trying to hide from?". If you're trying to hide information from a sportsbook, that's one set of procedures. Hide information from other bettors and screen watchers, that's another. Low level employees with database/backend access? That's another. From the government? "Good luck". Not only will you employ different techniques, but you will be protecting different pieces and types of data and different types of data have different protection costs associated to them.
 
 ### KPIs / Telemetry
