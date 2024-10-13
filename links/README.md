@@ -15,7 +15,9 @@ TX Markets - https://txmarkets.com/<br />
 Bookmaker's Review - https://www.bookmakersreview.com/odds/ - the "new" SBR<br />
 Odds API - https://the-odds-api.com/ - ($$$)<br />
 OddsPortal - https://www.oddsportal.com/<br />
+OddsView - https://www.oddsview.com/ - does have a free tier<br />
 OddsWarehouse - https://www.oddswarehouse.com/ - ($$$)<br />
+Pick the Odds - https://picktheodds.app/en/odds-screen - does have a free tier<br />
 
 ## NBA
 
