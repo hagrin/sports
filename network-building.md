@@ -65,6 +65,12 @@ Properly financing your network requires acute attention to the following areas 
 
 ### Reconciliation
 
+Probably one of the underdiscussed issues in networking is the reconciliation needed to conduct and finalize business agreements. Reconciliation has to consider the following issues - 
+- Jurisdictional issues including taxes
+- Transfer fees
+- Method of reconciliation (paper fiat vs digital fiat vs crypto vs other) which is slightly different than the financing piece because you can limit the methods inside your network, but reconciliation might require settling in other methods based on counterparties.
+- Dispute resolution
+
 ### Communications
 
 In the world of sports betting networking, your communication platform acts not only as method of communication, but also as an informal record / set of contracts. Therefore, when choosing a communications platform, you want to account for the following - 
