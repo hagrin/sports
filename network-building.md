@@ -80,8 +80,6 @@ In the world of sports betting networking, your communication platform acts not 
 - Ease of use
 - Extendability through programmatic solutions
 
-
-
 ### OpSec
 
 OpSec, short for Operational Security, is simply defined as - <i>"a process that identifies critical information to determine whether friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information"</i>. When it comes to operating a sports betting network, you will definitely want to make OpSec one of your primary concerns so that other groups, sportsbooks, other bettors, etc cannot take your critical information and use it to their advantage or, even worse, against you.<br /><br />
@@ -89,3 +87,5 @@ Whether you know it or not, you're engaging in "Information Warfare" which I cov
 Your OpSec procedures will be determined by who your adversary - i.e. "who are you actually trying to hide from?". If you're trying to hide information from a sportsbook, that's one set of procedures. Hide information from other bettors and screen watchers, that's another. Low level employees with database/backend access? That's another. From the government? "Good luck". Not only will you employ different techniques, but you will be protecting different pieces and types of data and different types of data have different protection costs associated to them.<br />
 
 ### KPIs / Telemetry
+
+Key Performance Indicators or KPIs are more commonly found in the corporate world, but there are some very clear applications in the sports betting networking world as well. Which KPIs you want to integrate depends on where you are in the network - originators will track certain KPIs while movers might track different data. For instance, if you're a major origination group, you're going to want to track things like % order filled, % filled at requested price, % CLV change x minutes after release, etc. Tracking these KPIs will allow you to start ranking the moving groups you're using and structure / order your releases to the best performing movers first. If you're a mover, you're going to want to track originator ROI, rate of account burn/turnover due to their plays, earn per hour work, online vs in-person vs kiosk plays, etc. These KPIs will help movers enter into better agreements and best use their resources - time, account and money.
