@@ -23,4 +23,8 @@ Following data is required -
 - Accurate market pricing history
 - Injury data - not necessary, but there's a theory that a questionable / hurt starting QB that's projected as playing may offer some additional EV if you can accurately project injury news breaking your way after selections lock
 
+### Limitaions of the Data
+
+There are some limitations on the data that, for better fits / accuracy, need to be accounted for specifically. First, SurvivorGrid data will update basically until the latest lock time for the 3 sets of contests they scrape - Yahoo, ESPN and OFP (OfficeFootballPool). However, Circa Survivor entries are due (in most cases) the day earlier at 4PM PST. Therefore, if there is late line movement or injury news, it's possible SurvivorGrid data will diverge from Circa pick selection data due to the later deadline and ability to process late breaking information.
+
 ## Pseudocode
