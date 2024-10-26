@@ -7,6 +7,7 @@ Objective: Try to more accurately predict Circa Survivor contestant selections w
 The following is a list of items I need to consider when building a selection projection model -
 - Remaining pool size
 - What week we are in (early weeks vs late weeks)
+- Accurate %s of what entries still have what teams available
 - "Candidate Selections" - much like in chess where you evaluate candidate moves, identify candidate selections and depth of candidate selections in a particular week and the depth's relationship to distribution
 - Market price of the candidate selections
 - Future value of the candidate selections
