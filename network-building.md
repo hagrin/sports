@@ -92,6 +92,7 @@ There are multiple adversaries that you need to consider when you're involved in
 - Sportsbooks & Tech Companies
 - Other Bettors / Other Groups
 - General Awful People on the Internet
+
 Since this is a network building guide, we're going to focus solely on the last two groups - developing OpSec principles to prevent data leakage to other bettors, other groups and you're run of the mill awful person you find online who may take aim at you with or without good reason.
 
 ### KPIs / Telemetry
