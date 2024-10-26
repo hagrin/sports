@@ -11,6 +11,7 @@ The following is a list of items I need to consider when building a selection pr
 - Market price of the candidate selections
 - Future value of the candidate selections
 - SurvivorGrid EV and Pick% data - using the assumption that people are using this as a shortcut and then taking this data and modifying their selections based on the game theory
+- Actual Elimination% vs Projected Elimination% - the theory behind this is that there's some correlation between actual elimination % vs the projected elimination % of public model pick %s. The greater the divergence between actual vs projected should mean how closely or divergent the remaining contestants are to the public pick %s. This item seems especially relevant in years where the actual elimination% far exceeds the projected elimination% (ex: 2024) where the remaining contestents were extremelly contrarian as a group to public pick %s
 
 ## Data Required
 
