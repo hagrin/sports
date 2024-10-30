@@ -63,6 +63,8 @@ Properly financing your network requires acute attention to the following areas 
 - Fiat vs Crypto & methods of settlement
 - Tax considerations
 
+Let's start with the easy one - cash / credit and bankroll size. Obviously, if you're just dealing with credit account offshores, you don't really have to worry too much about pre-financing the operation your only real concern here is the settlement procedures for all of the network's outs. However, especially in this age of legals and kiosk jamming, there may be some financial bootstrapping that might need to occur with certain segments of your network. For almost all networks, all things considered equal, you want to try to avoid having to bootstrap a network financially because these people will most likely be new to the scene (so none of their own capital yet), not have their own capital (which means they might have a money management problem) or they are people that I would consider having an increased risk profile in bootstrapping. Therefore, more the more you can get done on credit or without bootstrapping, the better. However, there may be some locations that have brick and mortar or kiosk locations where you need to provide the startup capital for that segment of the network.
+
 ### Reconciliation
 
 Probably one of the underdiscussed issues in networking is the reconciliation needed to conduct and finalize business agreements. Reconciliation has to consider the following issues - 
