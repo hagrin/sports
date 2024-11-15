@@ -123,3 +123,9 @@ https://tennisinsight.com/<br />
 https://github.com/snestler/wncaahoopR<br />
 https://github.com/sportsdataverse/wehoop<br />
 
+
+# Other Links
+
+## Modeling
+
+PyMC - https://www.pymc.io/welcome.html - probabilistic programming library for Python that allows users to build Bayesian models with a simple Python API and fit them using Markov chain Monte Carlo (MCMC) methods<br />
