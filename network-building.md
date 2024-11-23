@@ -73,6 +73,8 @@ Probably one of the underdiscussed issues in networking is the reconciliation ne
 - Method of reconciliation (paper fiat vs digital fiat vs crypto vs other) which is slightly different than the financing piece because you can limit the methods inside your network, but reconciliation might require settling in other methods based on counterparties.
 - Dispute resolution
 
+Clean, efficient dispute resolution in the sports betting ecosystem is a requirement for successful networks and partnerships.
+
 ### Communications
 
 In the world of sports betting networking, your communication platform acts not only as method of communication, but also as an informal record / set of contracts. Therefore, when choosing a communications platform, you want to account for the following - 
