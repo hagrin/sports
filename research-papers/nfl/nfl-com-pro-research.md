@@ -48,3 +48,16 @@ playAction = 0 or 1<br />
 
 ### Rushing
 
+rushDirection = INSIDE / OUTSIDE
+runStuff = 0 or 1 (unclear what the definition is here, but seems like negative designed run plays)
+
+### Receiving
+
+receiverAlignment = WIDE / SLOT / TIGHT / BACKFIELD
+separationType = TIGHT / OPEN (TIGHT < 1 yard, OPEN 3+ yards)
+
+### Defense
+
+personnel = DIME / NICKEL / BASE
+defendersInTheBox = LIGHT / NEUTRAL / STACKED (LIGHT <7, NEUTRAL 7, STACKED 8+)
+def_coverageType = PRESS / OFF
