@@ -31,3 +31,12 @@ fumbleLost = 0 or 1 (for rush attempts and fumbled snaps only)<br />
 rush10PlusYards = 0 or 1<br />
 reception = 0 or 1<br />
 sack = 0 or 1<br />
+
+### Presnap
+
+qbAlignment = SHOTGUN / UNDER_CENTER / PISTOL<br />
+rec_motion = 0 or 1 (for receiver motion)<br />
+
+### Passing
+
+targetLocation = OUTSIDE_NUMBERS / DOWN_SEAMS / BETWEEN_HASHES
