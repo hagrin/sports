@@ -4,30 +4,30 @@ This document serves as documentation for how the NFL.com Pro data is structured
 
 ## Film Room - Querystring Building
 
-season = 4 digit year (ex 2024)
-seasonTYPE = REG / POST / REG,POST
-weekSlug = WEEK_#
-gameId = GUID but you'll notice that only the first 8 characters change for games in a specific year
-quarter = single INT where OT = 5
-down = single INT
-yardsToGoType = SHORT / MID / LONG
+season = 4 digit year (ex 2024)<br />
+seasonTYPE = REG / POST / REG,POST<br />
+weekSlug = WEEK_#<br />
+gameId = GUID but you'll notice that only the first 8 characters change for games in a specific year<br />
+quarter = single INT where OT = 5<br />
+down = single INT<br />
+yardsToGoType = SHORT / MID / LONG<br />
 
 ### Play Types
 
-redzone = 0 or 1
-goalToGo = 0 or 1
-passPlay = 0 or 1
-runPlay = 0 or 1
-playType = play_type_rush / play_type_pass / play_type_sack / play_type_kickoff / play_type_punt / play_type_xp / play_type_field_goal / play_type_two_point_conversion
+redzone = 0 or 1<br />
+goalToGo = 0 or 1<br />
+passPlay = 0 or 1<br />
+runPlay = 0 or 1<br />
+playType = play_type_rush / play_type_pass / play_type_sack / play_type_kickoff / play_type_punt / play_type_xp / play_type_field_goal / play_type_two_point_conversion<br />
 
 ### Play Result
 
-touchdown = 0 or 1
-attempt = 0 or 1 (for pass attempts)
-completion = 0 or 1 (for pass completions)
-interception = 0 or 1
-fumble = 0 or 1 (for rush attempts and fumbled snaps only)
-fumbleLost = 0 or 1 (for rush attempts and fumbled snaps only)
-rush10PlusYards = 0 or 1
-reception = 0 or 1
-sack = 0 or 1
+touchdown = 0 or 1<br />
+attempt = 0 or 1 (for pass attempts)<br />
+completion = 0 or 1 (for pass completions)<br />
+interception = 0 or 1<br />
+fumble = 0 or 1 (for rush attempts and fumbled snaps only)<br />
+fumbleLost = 0 or 1 (for rush attempts and fumbled snaps only)<br />
+rush10PlusYards = 0 or 1<br />
+reception = 0 or 1<br />
+sack = 0 or 1<br />
