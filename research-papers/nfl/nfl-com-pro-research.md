@@ -39,4 +39,12 @@ rec_motion = 0 or 1 (for receiver motion)<br />
 
 ### Passing
 
-targetLocation = OUTSIDE_NUMBERS / DOWN_SEAMS / BETWEEN_HASHES
+targetLocation = OUTSIDE_NUMBERS / DOWN_SEAMS / BETWEEN_HASHES<br />
+airYardsType = SHORT / INTERMEDIATE / DEEP<br />
+dropbackTimeType = QUICK / LONG<br />
+pressure = 0 or 1<br />
+blitz = 0 or 1<br />
+playAction = 0 or 1<br />
+
+### Rushing
+
