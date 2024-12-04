@@ -8,7 +8,7 @@ JSON location = https://pro.nfl.com/api/secured/plays/winProbability?gameId=GAME
 Will give you one instance of pregame win probabilities -<br />
 
 pregameAwayTeamWinProbability": 0.19662677682936192<br />
-pregameHomeTeamWinProbability": 0.8033732231706381<br /><br />
+pregameHomeTeamWinProbability": 0.8033732231706381<br />
 
 For each play you will get the following win probabilities -<br /><br />
 preSnapHomeTeamWinProbability": 0.8043902590870857<br />
@@ -16,7 +16,7 @@ preSnapVisitorTeamWinProbability": 0.19560974091291428<br />
 postPlayHomeTeamWinProbability": 0.8100462146103382<br />
 postPlayVisitorTeamWinProbability": 0.1899537853896618<br />
 homeTeamWinProbabilityAdded": 0.005655955523252487<br />
-visitorTeamWinProbabilityAdded": -0.005655955523252487<br /><br />
+visitorTeamWinProbabilityAdded": -0.005655955523252487<br />
 
 ## Film Room - Querystring Building
 
