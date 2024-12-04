@@ -2,6 +2,22 @@
 
 This document serves as documentation for how the NFL.com Pro data is structured and delivered. The impetus for this document was the discovery of some hidden snap count data in an official box score PDF that doesn't seem to be linked anywhere else.
 
+## Win Probability
+
+JSON location = https://pro.nfl.com/api/secured/plays/winProbability?gameId=GAMEIDINT (where gameId equals some year+INT)<br />
+Will give you one instance of pregame win probabilities -<br />
+Ex:<br />
+pregameAwayTeamWinProbability": 0.19662677682936192<br />
+pregameHomeTeamWinProbability": 0.8033732231706381<br /><br />
+
+For each play you will get the following win probabilities -<br />
+preSnapHomeTeamWinProbability": 0.8043902590870857<br />
+preSnapVisitorTeamWinProbability": 0.19560974091291428<br />
+postPlayHomeTeamWinProbability": 0.8100462146103382<br />
+postPlayVisitorTeamWinProbability": 0.1899537853896618<br />
+homeTeamWinProbabilityAdded": 0.005655955523252487<br />
+visitorTeamWinProbabilityAdded": -0.005655955523252487<br /><br />
+
 ## Film Room - Querystring Building
 
 season = 4 digit year (ex 2024)<br />
