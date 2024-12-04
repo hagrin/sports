@@ -6,7 +6,7 @@ This document serves as documentation for how the NFL.com Pro data is structured
 
 JSON location = https://pro.nfl.com/api/secured/plays/winProbability?gameId=GAMEIDINT (where gameId equals some year+INT)<br /><br />
 Will give you one instance of pregame win probabilities -<br />
-Ex:<br />
+
 pregameAwayTeamWinProbability": 0.19662677682936192<br />
 pregameHomeTeamWinProbability": 0.8033732231706381<br /><br />
 
