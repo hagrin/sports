@@ -24,6 +24,7 @@ SpankOdds - https://www.spankodds.com/ - probably the industry standard for shar
 
 {airball} - https://github.com/josedv82/airball - R package to extract schedule and travel metrics<br />
 Basketball Reference - https://www.basketball-reference.com/<br />
+Duanks and Threes - https://dunksandthrees.com/ - has an API<br />
 https://www.pbpstats.com/<br />
 NBA RAPM - https://www.nbarapm.com/<br />
 https://www.nbastuffer.com/referee-stats/<br />
