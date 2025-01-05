@@ -2,7 +2,7 @@
 
 All credit to Seth Burn who introduced me to this concept of the Green Knight Test.<br />
 
-Less Wrong - https://www.lesswrong.com/posts/BthNiWJDagLuf2LN2/evaluating-predictions-in-hindsight#Method_Three__The_Green_Knight_Test - Archive Link - https://archive.is/kgAKs<br /><br />
+Less Wrong - https://www.lesswrong.com/posts/BthNiWJDagLuf2LN2/evaluating-predictions-in-hindsight#Method_Three__The_Green_Knight_Test - Archive Link - https://archive.is/kgAKs<br />
 
 ## So What Exactly is the Green Knight Test?
 
