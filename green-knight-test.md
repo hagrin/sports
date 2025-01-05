@@ -6,7 +6,7 @@ Less Wrong - https://www.lesswrong.com/posts/BthNiWJDagLuf2LN2/evaluating-predic
 
 ## So What Exactly is the Green Knight Test?
 
-*"You get to swing at the Green Knight. But then the Green Knight gets to swing at you."*<br /><br />
+*"You get to swing at the Green Knight. But then the Green Knight gets to swing at you."*<br />
 
 In betting terms, you and your model get to bet into the market. Then, the market gets to bet into you and your model. The model gets the same vig the market gets (this point, not made clear in the article above, is articulated by Seth here - https://x.com/SethBurn/status/1825966428375363920 , archive link here - https://archive.is/HjvMo ).<br /><br />
 
