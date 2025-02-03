@@ -2,6 +2,10 @@
 
 This is not meant to be a complete, all-encompassing list of match fixing events, but I did want to create a public repo of the ones I do run across as a reference. 
 
+## MLB
+
+2025 - Pat Hoberg, umpire - https://www.espn.com/mlb/story/_/id/43680990/mlb-upholds-firing-ump-pat-hoberg-gambling-violations<br />
+
 ## NBA
 
 2007 - Tim Donaghy - https://www.espn.com/nba/story/_/id/25980368/how-former-ref-tim-donaghy-conspired-fix-nba-games<br />
