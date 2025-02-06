@@ -10,7 +10,7 @@ This markdown acts as a quick documentation of the different touting techniques 
     * Grading against unavailable limits
 
 * Content Touting / Scams
-    * "I'm not selling anything, everything is free."
+    * "I'm not selling anything, everything is free" / Influencer Model
     * Free / Paid Discord subscription model
  
 * Futures Spamming
