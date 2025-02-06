@@ -6,12 +6,13 @@ This markdown acts as a quick documentation of the different touting techniques 
     * Photoshop
     * Inspect Element
     * Basic incomplete / inaccurate record keeping
-    * Grading against non-Widely Available (WA) lines
+    * Grading against non-Widely Available (WA) lines / Using Profit Boosts
     * Grading against unavailable limits
 
 * Content Touting / Scams
     * "I'm not selling anything, everything is free" / Influencer Model
     * Free / Paid Discord subscription model
+    * Affinity Scamming
  
 * Futures Spamming
 
