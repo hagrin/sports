@@ -12,7 +12,7 @@ This markdown acts as a quick documentation of the different touting techniques 
 * Content Touting / Scams
     * "I'm not selling anything, everything is free" / Influencer Model
     * Free / Paid Discord subscription model
-    * Affinity Scamming
+    * Affinity Fraud / Deceptive Marketing
  
 * Futures Spamming
 
