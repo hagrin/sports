@@ -4,6 +4,7 @@ This is not meant to be a complete, all-encompassing list of match fixing events
 
 ## MLB
 
+1919 - Chicago White Sox World Series - https://en.wikipedia.org/wiki/1919_World_Series<br />
 2025 - Pat Hoberg, umpire - https://www.espn.com/mlb/story/_/id/43680990/mlb-upholds-firing-ump-pat-hoberg-gambling-violations<br />
 
 ## NBA
