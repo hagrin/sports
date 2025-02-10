@@ -24,4 +24,4 @@ This markdown acts as a quick documentation of the different touting techniques 
  
 ## Falsification of Records
 
-Inaccurate record keeping is one of the easiest, most basic methodologies of the sports betting tout (or really any industry tout).
+Inaccurate record keeping is one of the easiest, most basic methodologies of the sports betting tout (or really any industry tout). However, there are actually many different methods to perform this falsification, some more subtle than others.
