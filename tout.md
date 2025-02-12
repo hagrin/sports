@@ -4,9 +4,9 @@ This markdown acts as a quick documentation of the different touting techniques 
 
 * Falsification of Records
     * Basic incomplete / inaccurate record keeping
+    * Promoting small samples / hot streaks / arbitrary start & endpoints / record filtering
     * Photoshop
     * Inspect Element
-    * Promoting small samples / hot streaks / arbitrary start & endpoints / record filtering
     * Grading against non-Widely Available (WA) lines / Using Profit Boosts
     * Grading against unavailable limits
     * Public pick tracker manipulation
