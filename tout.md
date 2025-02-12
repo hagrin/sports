@@ -25,3 +25,9 @@ This markdown acts as a quick documentation of the different touting techniques 
 ## Falsification of Records
 
 Inaccurate record keeping is one of the easiest, most basic methodologies of the sports betting tout (or really any industry tout). However, there are actually many different methods to perform this falsification, some more subtle than others. Photoshop is the most basic, most antiquated way of faking not only results, but betslips where you just do very basic image manipulation. This is not a very widely used technique in the modern day as there are not only much better falsification methods, but plenty of free, open source image manipulation detection tools.
+
+Inspect element is a far more common technique than basic image manipulation because you do not have to worry about matching spacing, fonts and coloring, but also because Developer Tools has become increasingly easier to use. Dev Tools basically makes editing any element on web pages a 3 click process as seen below.
+
+![image](https://github.com/user-attachments/assets/7350c9f0-c559-4e20-9bf8-bcf5d1fb6e3e)
+
+
