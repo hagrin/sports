@@ -26,7 +26,7 @@ This markdown acts as a quick documentation of the different touting techniques 
 
 Inaccurate record keeping is one of the easiest, most basic methodologies of the sports betting tout (or really any industry tout). However, there are actually many different methods to perform this falsification, some more subtle than others. Very obviously, basic incomplete / inaccurate record keeping is the easiest way for touts to promote themselves in a dishonest way. Excluding losses, including winners, falsifying the price, etc all contribute to the practice of inaccurate / incomplete record keeping. 
 
-An extremely common technique by many touts is to promote attractive results from small samples, hot streaks and record filtering while also limiting the sample by picking arbitrary start points / applying suvivorship bias to the sample.
+An extremely common technique by many touts is to promote attractive results from small samples, hot streaks and record filtering while also limiting the sample by picking arbitrary start points / applying suvivorship bias to the sample. Just due to natural variance, coin flippers will have periods with very good results and touts will often promote these small, arbitrary samples to make their prowess more attractive.
 
 Photoshop is the most basic, most antiquated way of faking not only results, but betslips where you just do very basic image manipulation. This is not a very widely used technique in the modern day as there are not only much better falsification methods, but plenty of free, open source image manipulation detection tools.
 
