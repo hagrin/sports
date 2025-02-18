@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soccer Lineup Editor</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            height: 100vh;
+            display: flex;
+        }
+
+        .sidebar {
+            width: 250px;
+            background-color: #f5f5f5;
+            padding: 20px;
+            border-right: 1px solid #ddd;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .main-content {
+            flex: 1;
+            background-color: #4CAF50;
+            position: relative;
+            overflow: hidden;
+            padding: 20px;
+        }
+
+        .field {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            background-color: #3d8c40;
+            border: 2px solid white;
+        }
+
+        .center-circle {
+            position: absolute;
+            top: -75px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 150px;
+            height: 150px;
+            border: 2px solid white;
+            border-radius: 50%;
+        }
+
+        .halfway-line {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            border-top: 2px solid white;
+        }
+
+        .penalty-box {
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60%;
+            height: 35%;
+            border: 2px solid white;
+            border-bottom: none;
+        }
+
+        .goal-box {
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 30%;
+            height: 15%;
+            border: 2px solid white;
+            border-bottom: none;
+        }
+
+        .goal {
+            position: absolute;
+            bottom: -5px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 20%;
+            height: 5px;
+            background-color: white;
+        }
+
+        select {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        textarea {
+            width: 100%;
+            height: 45vh;
+            resize: none;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .player-marker {
+            position: absolute;
+            background-color: white;
+            padding: 5px 10px;
+            border-radius: 15px;
+            font-size: 12px;
+            transform: translate(-50%, -50%);
+            white-space: nowrap;
+        }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <div class="form-group">
+            <label for="formation">Formation</label>
+            <select id="formation">
+                <option value="4-4-2">4-4-2</option>
+                <option value="3-5-2">3-5-2</option>
+                <option value="4-3-3">4-3-3</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="players">Players (Format: Name, Position)</label>
+            <textarea id="players" placeholder="Enter players (one per line)&#10;Example:&#10;John Smith, LW&#10;Mike Johnson, RW"></textarea>
+        </div>
+    </div>
+    <div class="main-content">
+        <div class="field" id="field">
+            <div class="center-circle"></div>
+            <div class="halfway-line"></div>
+            <div class="penalty-box"></div>
+            <div class="goal-box"></div>
+            <div class="goal"></div>
+        </div>
+    </div>
+
+    <script>
+        const positions442 = {
+            'LW': { top: '20%', left: '30%' },
+            'RW': { top: '20%', left: '70%' },
+            'LM': { top: '40%', left: '20%' },
+            'LCM': { top: '40%', left: '40%' },
+            'RCM': { top: '40%', left: '60%' },
+            'RM': { top: '40%', left: '80%' },
+            'LDB': { top: '65%', left: '20%' },  // Moved up from 75%
+            'LCB': { top: '65%', left: '40%' },  // Moved up from 75%
+            'RCB': { top: '65%', left: '60%' },  // Moved up from 75%
+            'RDB': { top: '65%', left: '80%' },  // Moved up from 75%
+            'GK': { top: '90%', left: '50%' }
+        };
+
+        const formationSelect = document.getElementById('formation');
+        const playersTextarea = document.getElementById('players');
+        const field = document.getElementById('field');
+
+        function updatePlayerPositions() {
+            // Clear existing players
+            const existingPlayers = document.querySelectorAll('.player-marker');
+            existingPlayers.forEach(player => player.remove());
+
+            // Get the current formation
+            const formation = formationSelect.value;
+            
+            // Get players from textarea
+            const players = playersTextarea.value.split('\n').filter(line => line.trim());
+
+            players.forEach(playerLine => {
+                const [name, position] = playerLine.split(',').map(str => str.trim());
+                if (name && position) {
+                    // Check if position exists in our mapping
+                    if (positions442[position]) {
+                        const playerMarker = document.createElement('div');
+                        playerMarker.className = 'player-marker';
+                        playerMarker.textContent = `${name} (${position})`;
+                        playerMarker.style.top = positions442[position].top;
+                        playerMarker.style.left = positions442[position].left;
+                        field.appendChild(playerMarker);
+                    }
+                }
+            });
+        }
+
+        formationSelect.addEventListener('change', updatePlayerPositions);
+        playersTextarea.addEventListener('input', updatePlayerPositions);
+    </script>
+</body>
+</html>
