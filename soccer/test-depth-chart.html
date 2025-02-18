@@ -163,11 +163,46 @@
             'LCM': { top: '40%', left: '40%' },
             'RCM': { top: '40%', left: '60%' },
             'RM': { top: '40%', left: '80%' },
-            'LDB': { top: '65%', left: '20%' },  // Moved up from 75%
-            'LCB': { top: '65%', left: '40%' },  // Moved up from 75%
-            'RCB': { top: '65%', left: '60%' },  // Moved up from 75%
-            'RDB': { top: '65%', left: '80%' },  // Moved up from 75%
+            'LDB': { top: '65%', left: '20%' },
+            'LCB': { top: '65%', left: '40%' },
+            'RCB': { top: '65%', left: '60%' },
+            'RDB': { top: '65%', left: '80%' },
             'GK': { top: '90%', left: '50%' }
+        };
+
+        const positions352 = {
+            'LW': { top: '20%', left: '35%' },
+            'CW': { top: '20%', left: '50%' },
+            'RW': { top: '20%', left: '65%' },
+            'LM': { top: '40%', left: '20%' },
+            'LCM': { top: '40%', left: '35%' },
+            'CM': { top: '40%', left: '50%' },
+            'RCM': { top: '40%', left: '65%' },
+            'RM': { top: '40%', left: '80%' },
+            'LDB': { top: '65%', left: '35%' },
+            'CDB': { top: '65%', left: '50%' },
+            'RDB': { top: '65%', left: '65%' },
+            'GK': { top: '90%', left: '50%' }
+        };
+
+        const positions433 = {
+            'LW': { top: '20%', left: '20%' },
+            'CW': { top: '20%', left: '50%' },
+            'RW': { top: '20%', left: '80%' },
+            'LM': { top: '40%', left: '35%' },
+            'CM': { top: '40%', left: '50%' },
+            'RM': { top: '40%', left: '65%' },
+            'LDB': { top: '65%', left: '20%' },
+            'LCB': { top: '65%', left: '40%' },
+            'RCB': { top: '65%', left: '60%' },
+            'RDB': { top: '65%', left: '80%' },
+            'GK': { top: '90%', left: '50%' }
+        };
+
+        const formationPositions = {
+            '4-4-2': positions442,
+            '3-5-2': positions352,
+            '4-3-3': positions433
         };
 
         const formationSelect = document.getElementById('formation');
@@ -181,6 +216,7 @@
 
             // Get the current formation
             const formation = formationSelect.value;
+            const positionMapping = formationPositions[formation];
             
             // Get players from textarea
             const players = playersTextarea.value.split('\n').filter(line => line.trim());
@@ -189,12 +225,12 @@
                 const [name, position] = playerLine.split(',').map(str => str.trim());
                 if (name && position) {
                     // Check if position exists in our mapping
-                    if (positions442[position]) {
+                    if (positionMapping[position]) {
                         const playerMarker = document.createElement('div');
                         playerMarker.className = 'player-marker';
                         playerMarker.textContent = `${name} (${position})`;
-                        playerMarker.style.top = positions442[position].top;
-                        playerMarker.style.left = positions442[position].left;
+                        playerMarker.style.top = positionMapping[position].top;
+                        playerMarker.style.left = positionMapping[position].left;
                         field.appendChild(playerMarker);
                     }
                 }
