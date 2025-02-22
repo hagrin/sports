@@ -34,4 +34,4 @@ Inspect element is a far more common technique than basic image manipulation bec
 
 ![image](https://github.com/user-attachments/assets/7350c9f0-c559-4e20-9bf8-bcf5d1fb6e3e)
 
-Grading against non-Widely Available (WA) lines or grading utilizing Profit Boosts is a tactic not only new touts use, but even tout industry veterans.
+Grading against non-Widely Available (WA) lines or grading utilizing Profit Boosts is a tactic not only new touts use, but even tout industry veterans. This tactic highlights the need for verifiable, immutable timestamping of bets / touts because even very slight delays can offer extreme value to touts steam chasing.
