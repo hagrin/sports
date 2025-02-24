@@ -100,6 +100,7 @@ https://nflseedr.com/ - R package for simulating seasons using your own model<br
 ## Soccer 
 
 ScraperFC - https://github.com/oseymour/ScraperFC - (python)<br />
+SoRareDeke MLS Lineups - https://docs.google.com/spreadsheets/d/1avMYT414dmLdMoOvNG2cJL26NCkqEEJqLgZ0yYS8pYw - spreadsheet of lineup data<br />
 StatsBomb Open Data - https://github.com/statsbomb/open-data - publicly shared data mostly for lower leagues, great place to start for soccer analytics people<br />
 https://fbref.com/en/<br />
 https://jaseziv.github.io/worldfootballR/<br />
