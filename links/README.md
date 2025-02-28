@@ -8,6 +8,7 @@ https://docs.google.com/spreadsheets/u/0/d/1LPe8xYduoep9qCrNzBGdJHaHZ8dnmdHNnu7U
 
 Sportsdata.io - https://sportsdata.io/<br />
 Stats Perform - https://www.statsperform.com/<br />
+TruMedia - https://www.trumedianetworks.com/ - provides over 300 football, baseball, soccer, cricket and basketball teams with access to robust tools for data analytics, visualizations and video scouting<br />
 TX Markets - https://txmarkets.com/<br />
 
 ## Odds
