@@ -30,4 +30,5 @@ UltraPro - https://ultrapro.com/<br />
 
 ## Tech
 
-Card Dealer Pro - https://www.carddealerpro.com/ - Scanning app, but big $$$ (better off building this your own with AI)
+Card Dealer Pro - https://www.carddealerpro.com/ - Scanning app, but big $$$ (better off building this your own with AI)<br />
+GradeA.id - https://www.gradea.id/ - AI app that tries to help you grade your cards<br />
