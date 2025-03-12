@@ -144,3 +144,4 @@ PyMC - https://www.pymc.io/welcome.html - probabilistic programming library for 
 ## Sports Tech
 
 ASB Glass Floor - https://asbglassfloor.com/asb-lumiflex/ - basketball court floors that can be modified and drawn on digitally<br />
+P3 - https://www.p3.md/ - contract with the NBA, sports science<br />
