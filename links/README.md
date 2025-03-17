@@ -45,13 +45,13 @@ https://collegefootballdata.com/<br />
 
 CBBData - https://github.com/andreweatherman/cbbdata<br />
 CollegeBasketballData API - https://api.collegebasketballdata.com/ - ($$$)<br />
+EvanMiya - https://evanmiya.com/ - Similar to KenPom, T-Rank<br />
 https://www.sports-reference.com/cbb/<br />
 https://github.com/lbenz730/ncaahoopR<br />
 https://github.com/lbenz730/ncaahoopR<br />
 https://www.thepredictiontracker.com/predbb.html<br />
 https://dpmartin42.github.io/posts/r/college-basketball-rankings<br />
 https://shotquality.com/ & https://twitter.com/Shot_Quality<br />
-https://evanmiya.com/ - Similar to KenPom, T-Rank<br />
 https://blessyourchart.shinyapps.io/WABStick/ - WABStick<br />
 https://hoop-math.com/<br />
 https://haslametrics.com/<br />
