@@ -20,6 +20,7 @@ OddsPortal - https://www.oddsportal.com/<br />
 OddsView - https://www.oddsview.com/ - does have a free tier<br />
 OddsWarehouse - https://www.oddswarehouse.com/ - ($$$)<br />
 Pick the Odds - https://picktheodds.app/en/odds-screen - does have a free tier<br />
+Pinnacle Odds Dropper - https://www.pinnacleoddsdropper.com/ - ($$$)<br />
 SpankOdds - https://www.spankodds.com/ - probably the industry standard for sharps right now, does have an ad fueled free tier<br />
 
 ## NBA
