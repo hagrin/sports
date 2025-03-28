@@ -38,6 +38,6 @@ Grading against non-Widely Available (WA) lines or grading utilizing Profit Boos
 
 ## Content Touting / Scams
 
-##Futures Spamming
+## Futures Spamming
 
 ## Group / Team / Service Collective Touting
