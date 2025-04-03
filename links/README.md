@@ -83,6 +83,7 @@ https://swishanalytics.com/mlb/mlb-umpire-factors - Umpire Factors<br />
 
 ## NFL
 
+Football Analytics Nerd (Jake Cardonick) - https://footballanalyticsnerd.netlify.app/<br />
 NFL.com Combine Data - https://www.nfl.com/combine/iq/<br />
 NFL.com Pro - https://pro.nfl.com/ - ($$$) - Requires NFL+ Premium, tons of NextGenStats, filtered All-22<br />
 nflfastR - https://github.com/mrcaseb/nflfastR<br />
