@@ -4,6 +4,10 @@ Temporary file for certain things that I have noticed with the trading engines o
 
 ## FanDuel
 
+### Cashouts
+
+* If you bet a ML that then goes in your favor to the point the ML is priced to unavailable, you cannot cashout (note - you wouldn't want to, but if you're someone with a limited bankroll, realize that your money will be locked in that ML bet until completion or the event starts going against your side to the point that ML gets lined again)
+
 ### Soccer
 
 * All: No Asians
