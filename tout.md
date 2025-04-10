@@ -40,4 +40,8 @@ Grading against non-Widely Available (WA) lines or grading utilizing Profit Boos
 
 ## Futures Spamming
 
+
+![image](https://github.com/user-attachments/assets/4bde39d6-1370-4354-9a0f-4f9d6b8b9388)
+
+
 ## Group / Team / Service Collective Touting
