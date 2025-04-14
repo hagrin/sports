@@ -3,6 +3,7 @@
 ## General
 
 https://docs.google.com/spreadsheets/u/0/d/1LPe8xYduoep9qCrNzBGdJHaHZ8dnmdHNnu7UXZKzawU/htmlview# - Guide to Sports Analytics<br />
+PlayoffStatus.com - https://playoffstatus.com/ - playoff probabilities for multiple sports<br />
 
 ## Data Feeds
 
