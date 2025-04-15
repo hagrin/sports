@@ -85,6 +85,7 @@ https://swishanalytics.com/mlb/mlb-umpire-factors - Umpire Factors<br />
 ## NFL
 
 Football Analytics Nerd (Jake Cardonick) - https://footballanalyticsnerd.netlify.app/<br />
+Grinding the Mocks - https://grindingthemocks.shinyapps.io/ - NFL Draft<br />
 NFL.com Combine Data - https://www.nfl.com/combine/iq/<br />
 NFL.com Pro - https://pro.nfl.com/ - ($$$) - Requires NFL+ Premium, tons of NextGenStats, filtered All-22<br />
 nflfastR - https://github.com/mrcaseb/nflfastR<br />
@@ -92,7 +93,6 @@ nflreadr - https://github.com/nflverse/nflreadr<br />
 nflscrapR - https://github.com/maksimhorowitz/nflscrapR<br />
 SumerSports Stats - https://sumersports.com/players/quarterback/ - some interesting stats not found elsewhere publicly<br />
 https://rbsdm.com/stats/box_scores/ - EPA based box scores<br />
-https://grindingthemocks.shinyapps.io/ - NFL Draft<br />
 http://breakdownsports.blogspot.com/p/run-concepts.html - help understand play design/what you're watching<br />
 https://nflgamedata.com/<br />
 https://www.nfeloapp.com/games/<br />
