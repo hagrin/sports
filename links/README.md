@@ -7,6 +7,7 @@ PlayoffStatus.com - https://playoffstatus.com/ - playoff probabilities for multi
 
 ## Data Feeds
 
+SkillCorner - https://skillcorner.com/ - $$$<br />
 Sportsdata.io - https://sportsdata.io/<br />
 Stats Perform - https://www.statsperform.com/<br />
 TruMedia - https://www.trumedianetworks.com/ - provides over 300 football, baseball, soccer, cricket and basketball teams with access to robust tools for data analytics, visualizations and video scouting<br />
