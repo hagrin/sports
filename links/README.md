@@ -93,6 +93,7 @@ nflfastR - https://github.com/mrcaseb/nflfastR<br />
 nflreadr - https://github.com/nflverse/nflreadr<br />
 nflscrapR - https://github.com/maksimhorowitz/nflscrapR<br />
 SumerSports Stats - https://sumersports.com/players/quarterback/ - some interesting stats not found elsewhere publicly<br />
+Tankathon - https://www.tankathon.com/nfl/power_rankings - Good page for draft capital rankings<br />
 https://rbsdm.com/stats/box_scores/ - EPA based box scores<br />
 http://breakdownsports.blogspot.com/p/run-concepts.html - help understand play design/what you're watching<br />
 https://nflgamedata.com/<br />
