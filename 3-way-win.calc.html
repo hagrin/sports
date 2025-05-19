@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3-Way Soccer Betting Calculator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        .container {
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        .odds-container {
+            display: flex;
+            gap: 15px;
+        }
+        .odds-box {
+            flex: 1;
+        }
+        .results {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #e8f4f8;
+            border-radius: 6px;
+        }
+        .result-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        .hold {
+            font-weight: bold;
+            font-size: 18px;
+            text-align: center;
+            margin-top: 15px;
+            padding: 10px;
+            background-color: #2c3e50;
+            color: white;
+            border-radius: 6px;
+        }
+        .explanation {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f5f5f5;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+        .toggle-format {
+            margin-bottom: 15px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>3-Way Soccer Betting Calculator</h1>
+    
+    <div class="container">
+        <div class="toggle-format">
+            <label for="odds-format">Odds Format:</label>
+            <select id="odds-format" onchange="updateLabels()">
+                <option value="decimal">Decimal (European)</option>
+                <option value="american">American</option>
+                <option value="fractional">Fractional (UK)</option>
+            </select>
+        </div>
+        
+        <div class="odds-container">
+            <div class="odds-box">
+                <div class="form-group">
+                    <label for="home-odds">Home Win Odds:</label>
+                    <input type="text" id="home-odds" placeholder="e.g. 2.50" oninput="calculateProbabilities()">
+                </div>
+            </div>
+            
+            <div class="odds-box">
+                <div class="form-group">
+                    <label for="draw-odds">Draw Odds:</label>
+                    <input type="text" id="draw-odds" placeholder="e.g. 3.40" oninput="calculateProbabilities()">
+                </div>
+            </div>
+            
+            <div class="odds-box">
+                <div class="form-group">
+                    <label for="away-odds">Away Win Odds:</label>
+                    <input type="text" id="away-odds" placeholder="e.g. 2.80" oninput="calculateProbabilities()">
+                </div>
+            </div>
+        </div>
+        
+        <div class="results" id="results">
+            <h2>Results</h2>
+            <div id="probability-results">
+                <div class="result-item">
+                    <span>Home Win Implied Probability:</span>
+                    <span id="home-probability">-</span>
+                </div>
+                <div class="result-item">
+                    <span>Draw Implied Probability:</span>
+                    <span id="draw-probability">-</span>
+                </div>
+                <div class="result-item">
+                    <span>Away Win Implied Probability:</span>
+                    <span id="away-probability">-</span>
+                </div>
+                <div class="result-item">
+                    <span>Sum of Probabilities:</span>
+                    <span id="total-probability">-</span>
+                </div>
+            </div>
+            
+            <div class="hold" id="hold-result">
+                Bookmaker's Hold: -
+            </div>
+        </div>
+        
+        <div class="explanation">
+            <h3>What is this calculator?</h3>
+            <p>This calculator allows you to input the odds for a 3-way soccer betting market (Home Win, Draw, Away Win) and automatically calculates:</p>
+            <ol>
+                <li>The implied probability for each outcome based on the odds</li>
+                <li>The bookmaker's hold (also known as "vig", "juice", or "margin")</li>
+            </ol>
+            
+            <h3>How to use it:</h3>
+            <ol>
+                <li>Select your preferred odds format (Decimal, American, or Fractional)</li>
+                <li>Enter the odds for Home Win, Draw, and Away Win</li>
+                <li>The calculator will automatically show the implied probabilities and bookmaker's hold</li>
+            </ol>
+            
+        </div>
+    </div>
+
+    <script>
+        function updateLabels() {
+            const format = document.getElementById('odds-format').value;
+            let placeholder1, placeholder2, placeholder3;
+            
+            if (format === 'decimal') {
+                placeholder1 = "e.g. 2.50";
+                placeholder2 = "e.g. 3.40";
+                placeholder3 = "e.g. 2.80";
+            } else if (format === 'american') {
+                placeholder1 = "e.g. +150";
+                placeholder2 = "e.g. +240";
+                placeholder3 = "e.g. +180";
+            } else if (format === 'fractional') {
+                placeholder1 = "e.g. 3/2";
+                placeholder2 = "e.g. 12/5";
+                placeholder3 = "e.g. 9/5";
+            }
+            
+            document.getElementById('home-odds').placeholder = placeholder1;
+            document.getElementById('draw-odds').placeholder = placeholder2;
+            document.getElementById('away-odds').placeholder = placeholder3;
+            
+            // Clear inputs when format changes
+            document.getElementById('home-odds').value = '';
+            document.getElementById('draw-odds').value = '';
+            document.getElementById('away-odds').value = '';
+            
+            // Reset calculations
+            resetCalculations();
+        }
+        
+        function resetCalculations() {
+            document.getElementById('home-probability').textContent = '-';
+            document.getElementById('draw-probability').textContent = '-';
+            document.getElementById('away-probability').textContent = '-';
+            document.getElementById('total-probability').textContent = '-';
+            document.getElementById('hold-result').textContent = 'Bookmaker\'s Hold: -';
+        }
+        
+        function calculateProbabilities() {
+            const format = document.getElementById('odds-format').value;
+            let homeOdds = document.getElementById('home-odds').value.trim();
+            let drawOdds = document.getElementById('draw-odds').value.trim();
+            let awayOdds = document.getElementById('away-odds').value.trim();
+            
+            // Check if any input is empty
+            if (!homeOdds || !drawOdds || !awayOdds) {
+                resetCalculations();
+                return;
+            }
+            
+            // Convert odds to decimal format for calculations
+            let homeDecimal, drawDecimal, awayDecimal;
+            
+            try {
+                if (format === 'decimal') {
+                    homeDecimal = parseFloat(homeOdds);
+                    drawDecimal = parseFloat(drawOdds);
+                    awayDecimal = parseFloat(awayOdds);
+                } else if (format === 'american') {
+                    homeDecimal = convertAmericanToDecimal(homeOdds);
+                    drawDecimal = convertAmericanToDecimal(drawOdds);
+                    awayDecimal = convertAmericanToDecimal(awayOdds);
+                } else if (format === 'fractional') {
+                    homeDecimal = convertFractionalToDecimal(homeOdds);
+                    drawDecimal = convertFractionalToDecimal(drawOdds);
+                    awayDecimal = convertFractionalToDecimal(awayOdds);
+                }
+                
+                // Validate converted odds
+                if (isNaN(homeDecimal) || isNaN(drawDecimal) || isNaN(awayDecimal) ||
+                    homeDecimal <= 1 || drawDecimal <= 1 || awayDecimal <= 1) {
+                    resetCalculations();
+                    return;
+                }
+                
+                // Calculate implied probabilities
+                const homeProbability = (1 / homeDecimal) * 100;
+                const drawProbability = (1 / drawDecimal) * 100;
+                const awayProbability = (1 / awayDecimal) * 100;
+                const totalProbability = homeProbability + drawProbability + awayProbability;
+                
+                // Calculate hold percentage
+                const holdPercentage = totalProbability - 100;
+                
+                // Display results
+                document.getElementById('home-probability').textContent = homeProbability.toFixed(2) + '%';
+                document.getElementById('draw-probability').textContent = drawProbability.toFixed(2) + '%';
+                document.getElementById('away-probability').textContent = awayProbability.toFixed(2) + '%';
+                document.getElementById('total-probability').textContent = totalProbability.toFixed(2) + '%';
+                
+                let holdText = `Bookmaker's Hold: ${holdPercentage.toFixed(2)}%`;
+                document.getElementById('hold-result').textContent = holdText;
+                
+                // Highlight the hold based on value
+                const holdElement = document.getElementById('hold-result');
+                if (holdPercentage <= 5) {
+                    holdElement.style.backgroundColor = "#27ae60"; // Green for excellent value
+                } else if (holdPercentage <= 8) {
+                    holdElement.style.backgroundColor = "#2980b9"; // Blue for good value
+                } else if (holdPercentage <= 12) {
+                    holdElement.style.backgroundColor = "#f39c12"; // Orange for average value
+                } else {
+                    holdElement.style.backgroundColor = "#c0392b"; // Red for poor value
+                }
+                
+            } catch (error) {
+                resetCalculations();
+            }
+        }
+        
+        function convertAmericanToDecimal(americanOdds) {
+            americanOdds = americanOdds.toString().trim();
+            const value = parseInt(americanOdds);
+            
+            if (isNaN(value)) {
+                return NaN;
+            }
+            
+            if (value > 0) {
+                return (value / 100) + 1;
+            } else if (value < 0) {
+                return (100 / Math.abs(value)) + 1;
+            }
+            
+            return NaN;
+        }
+        
+        function convertFractionalToDecimal(fractionalOdds) {
+            fractionalOdds = fractionalOdds.toString().trim();
+            
+            if (fractionalOdds.includes('/')) {
+                const parts = fractionalOdds.split('/');
+                if (parts.length === 2) {
+                    const numerator = parseInt(parts[0]);
+                    const denominator = parseInt(parts[1]);
+                    
+                    if (!isNaN(numerator) && !isNaN(denominator) && denominator !== 0) {
+                        return (numerator / denominator) + 1;
+                    }
+                }
+            } else if (!isNaN(fractionalOdds)) {
+                // Handle whole number input like "5" (meaning 5/1)
+                return parseInt(fractionalOdds) + 1;
+            }
+            
+            return NaN;
+        }
+        
+        // Initialize the page
+        updateLabels();
+    </script>
+</body>
+</html>
