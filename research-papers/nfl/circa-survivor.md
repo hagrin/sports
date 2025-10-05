@@ -18,7 +18,7 @@ The following is a list of items I need to consider when building a selection pr
 ## Data Required
 
 Following data is required - 
-- Historical Circa pick selections
+- Historical Circa / Grandissimo / other significant pool pick selections
 - Where possible more accurate entry selection data to better estimate available candidate selections
 - Historical SurvivorGrid data
 - Accurate market pricing history
