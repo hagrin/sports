@@ -5,6 +5,7 @@ Objective: Try to more accurately predict Circa Survivor contestant selections w
 ## Theory
 
 The following is a list of items I need to consider when building a selection projection model -
+- Entry fee especially when dealing with contests like the Grandissimo
 - Remaining pool size
 - What week we are in (early weeks vs late weeks)
 - Accurate %s of what entries still have what teams available
@@ -21,8 +22,8 @@ Following data is required -
 - Historical Circa / Grandissimo / other significant pool pick selections
 - Where possible more accurate entry selection data to better estimate available candidate selections
 - Historical SurvivorGrid data
-- Accurate market pricing history
-- Injury data - not necessary, but there's a theory that a questionable / hurt starting QB that's projected as playing may offer some additional EV if you can accurately project injury news breaking your way after selections lock
+- Accurate market pricing history even after pick lock if sharps are anticipating further line movement
+- Injury data - a few angles here. Not necessary, but there's a theory that a questionable / hurt starting QB that's projected as playing may offer some additional EV if you can accurately project injury news breaking your way after selections lock
 
 ### Limitaions of the Data
 
