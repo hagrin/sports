@@ -92,6 +92,7 @@ NFL.com Pro - https://pro.nfl.com/ - ($$$) - Requires NFL+ Premium, tons of Next
 nflfastR - https://github.com/mrcaseb/nflfastR<br />
 nflreadr - https://github.com/nflverse/nflreadr<br />
 nflscrapR - https://github.com/maksimhorowitz/nflscrapR<br />
+StatButler - https://www.statbutler.com/ - snap counts<br />
 SumerSports Stats - https://sumersports.com/players/quarterback/ - some interesting stats not found elsewhere publicly<br />
 Tankathon - https://www.tankathon.com/nfl/power_rankings - Good page for draft capital rankings<br />
 https://rbsdm.com/stats/box_scores/ - EPA based box scores<br />
