@@ -112,6 +112,7 @@ Capology - https://www.capology.com/ - Football Salaries & Finances<br />
 Rotowire Lineups - https://www.rotowire.com/soccer/lineups.php?league=MLS - good for injuries, not great at predicting rotations<br />
 ScraperFC - https://github.com/oseymour/ScraperFC - (python)<br />
 SoRareDeke MLS Lineups - https://docs.google.com/spreadsheets/d/1avMYT414dmLdMoOvNG2cJL26NCkqEEJqLgZ0yYS8pYw - spreadsheet of lineup data<br />
+SportsMonks - https://www.sportmonks.com/ - $$$ - API service<br />
 StatsBomb Open Data - https://github.com/statsbomb/open-data - publicly shared data mostly for lower leagues, great place to start for soccer analytics people<br />
 https://fbref.com/en/<br />
 https://jaseziv.github.io/worldfootballR/<br />
