@@ -27,6 +27,7 @@ SpankOdds - https://www.spankodds.com/ - probably the industry standard for shar
 
 ## NBA
 
+https://github.com/ramirobentes/nba_pbp_data - NBA PBP data<br />
 {airball} - https://github.com/josedv82/airball - R package to extract schedule and travel metrics<br />
 Basketball Reference - https://www.basketball-reference.com/<br />
 databallr - https://databallr.com/<br />
