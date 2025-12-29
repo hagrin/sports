@@ -1,6 +1,7 @@
 # Soccer Research Papers
 
 Here are some interesting links that aren't PDFs -<br>
+https://janvanhaaren.be/posts/soccer-analytics-review-2025/ - (2025/12/29) - 2025 edition, amazing collection from Jan Van Haaren of all the best works of the year<br /><br />
 https://janvanhaaren.be/posts/soccer-analytics-review-2024/index.html - (2024/12/29) - Amazing collection from Jan Van Haaren of all the best works of the year<br /><br />
 https://tonyelhabr.rbind.io/posts/xg-predictor-future-results/ - (2024/06/19) - Expected Goals, Gamestate & Predictiveness<br /><br />
 https://janvanhaaren.be/posts/soccer-analytics-review-2023/ - (2023/12/28) - Amazing collection from Jan Van Haaren of all the best works of the year<br /><br />
