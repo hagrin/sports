@@ -14,6 +14,7 @@ This is not meant to be a complete, all-encompassing list of match fixing events
 
 ## NCAAM
 
+2026 - Widespread US College & Chinese pro match fixing - https://www.nbcnews.com/sports/sports-gambling/20-charged-basketball-game-fixing-scandal-rcna254197<br />
 1994 - Arizona State - Benny Silman, Stevin Smith, Isaac Burton - https://sportshandle.com/arizona-state-point-shaving-scandal-bookies/<br />
 
 ## E-Sports
