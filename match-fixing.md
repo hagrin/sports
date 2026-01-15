@@ -11,10 +11,11 @@ This is not meant to be a complete, all-encompassing list of match fixing events
 
 2007 - Tim Donaghy - https://www.espn.com/nba/story/_/id/25980368/how-former-ref-tim-donaghy-conspired-fix-nba-games<br />
 2024 - Johntay Porter - https://www.cbssports.com/nba/news/jontay-porter-gambling-investigation-explained-nba-hands-down-lifetime-ban-after-prop-bet-irregularities/<br />
+2025 - Terry Rozier, Chauncey Billups, Damon Jones - https://www.nbcnews.com/news/us-news/live-blog/live-updates-nba-chauncey-billups-terry-rozier-arrested-gambling-rcna239312<br />
 
 ## NCAAM
 
-2026 - Widespread US College & Chinese pro match fixing - https://www.nbcnews.com/sports/sports-gambling/20-charged-basketball-game-fixing-scandal-rcna254197<br />
+2026 - Widespread US College & Chinese pro match fixing - specific games Nicholls State vs McNeese State 2024 Feb 17 - https://www.nbcnews.com/sports/sports-gambling/20-charged-basketball-game-fixing-scandal-rcna254197<br />
 1994 - Arizona State - Benny Silman, Stevin Smith, Isaac Burton - https://sportshandle.com/arizona-state-point-shaving-scandal-bookies/<br />
 
 ## E-Sports
