@@ -10,6 +10,7 @@ PlayoffStatus.com - https://playoffstatus.com/ - playoff probabilities for multi
 SkillCorner - https://skillcorner.com/ - $$$<br />
 Sportsdata.io - https://sportsdata.io/<br />
 Stats Perform - https://www.statsperform.com/<br />
+The Stats API - https://thestatsapi.com/ - Soccer only for the moment, $$$, but pretty affordable IMO<br />
 TruMedia - https://www.trumedianetworks.com/ - provides over 300 football, baseball, soccer, cricket and basketball teams with access to robust tools for data analytics, visualizations and video scouting<br />
 TX Markets - https://txmarkets.com/<br />
 
