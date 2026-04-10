@@ -89,6 +89,7 @@ https://swishanalytics.com/mlb/mlb-umpire-factors - Umpire Factors<br />
 
 Football Analytics Nerd (Jake Cardonick) - https://footballanalyticsnerd.netlify.app/<br />
 Grinding the Mocks - https://grindingthemocks.shinyapps.io/ - NFL Draft<br />
+Hot Draft Time Machine - http://draft.hawkblogger.com/ - Grades drafts against NFL data<br />
 NFL.com Combine Data - https://www.nfl.com/combine/iq/<br />
 NFL.com Pro - https://pro.nfl.com/ - ($$$) - Requires NFL+ Premium, tons of NextGenStats, filtered All-22<br />
 nflfastR - https://github.com/mrcaseb/nflfastR<br />
