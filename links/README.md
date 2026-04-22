@@ -87,6 +87,7 @@ https://swishanalytics.com/mlb/mlb-umpire-factors - Umpire Factors<br />
 
 ## NFL
 
+Draft.Axis - https://draft-axis.com/ - Draft dashboards, Exec Profile very useful<br />
 Football Analytics Nerd (Jake Cardonick) - https://footballanalyticsnerd.netlify.app/<br />
 Grinding the Mocks - https://grindingthemocks.shinyapps.io/ - NFL Draft<br />
 Hot Draft Time Machine - http://draft.hawkblogger.com/ - Grades drafts against NFL data<br />
