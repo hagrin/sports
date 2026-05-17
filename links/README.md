@@ -164,4 +164,5 @@ BetMoar.fun - https://www.betmoar.fun/ - slightly better UI to look at user prof
 
 ASB Glass Floor - https://asbglassfloor.com/asb-lumiflex/ - basketball court floors that can be modified and drawn on digitally<br />
 Genius Sports - https://www.geniussports.com/ - iPhone camera driven SAOT soccer offsides semi automated system<br />
+Noah Basketball - https://www.noahbasketball.com/ - Basketball shot tracking used by many teams<br />
 P3 - https://www.p3.md/ - contract with the NBA, sports science<br />
