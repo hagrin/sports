@@ -17,6 +17,7 @@ TX Markets - https://txmarkets.com/<br />
 
 ## Odds
 
+4C Odds - https://4codds.com/ - free for now<br />
 Bookmaker's Review - https://www.bookmakersreview.com/odds/ - the "new" SBR<br />
 Odds API - https://the-odds-api.com/ - ($$$)<br />
 OddsLogic - https://www.oddslogic.com/ - ($$$)<br />
