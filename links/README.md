@@ -168,3 +168,4 @@ Genius Sports - https://www.geniussports.com/ - iPhone camera driven SAOT soccer
 Monarc - Seeker Football Jugs Machine - https://monarcsport.com/<br />
 Noah Basketball - https://www.noahbasketball.com/ - Basketball shot tracking used by many teams<br />
 P3 - https://www.p3.md/ - contract with the NBA, sports science<br />
+WHOOP - https://www.whoop.com/us/en/ - wearables, popular with soccer leagues<br />
